@@ -20,4 +20,10 @@ This project focuses on building a machine learning model capable of detecting s
 ## Future Enhancements  
 - Enhance model performance with advanced datasets and refined hyperparameter tuning.  
 - Select the most suitable model for deployment in real-world scenarios.  
-- Optimize processing speed for seamless real-time detection.  
+- Optimize processing speed for seamless real-time detection.
+  
+## Contributors
+- **Abdul Alim Rakib** (abdul.rakib01@northsouth.edu) 
+- **Sumaya Shimu Rima** (shimu.rima@northsouth.edu) 
+- **Shakib Ahamed** (shakib.ahamed@northsouth.edu) 
+- **Md Naimur Rahman** (naimur.rahman@northsouth.edu)
