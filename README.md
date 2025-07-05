@@ -26,4 +26,4 @@ This project focuses on building a machine learning model capable of detecting s
 - **Abdul Alim Rakib** (abdul.rakib01@northsouth.edu) 
 - **Sumaya Shimu Rima** (shimu.rima@northsouth.edu) 
 - **Shakib Ahamed** (shakib.ahamed@northsouth.edu) 
-- **Md Naimur Rahman** (naimur.rahman@northsouth.edu)
+- **Md Naimur Rahman** (naimur.rahman12@northsouth.edu)
